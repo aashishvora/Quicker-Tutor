@@ -18,7 +18,9 @@
 "log_length" : 100,
 "dev_debug": false,
 "extra_js": [],
-"demo_sites": [{"key": "student", "url": "http://www.quickertutor.com/demo/", "username": "student", "password": "moodle"}, {"key": "teacher", "url": "http://www.quickertutor.com/demo/", "username": "teacher", "password": "moodle"}, {"key": "cva", "url": "http://www.quickertutor.com/demo/", "username": "student", "password": "student"}],
+"demo_sites": [{"key": "student", "url": "http://www.quickertutor.com/demo", "username": "student", "password": "moodle"},
+{"key": "teacher", "url": "http://www.quickertutor.com/demo", "username": "teacher", "password": "moodle"},
+{"key": "cva", "url": "http://www.quickertutor.com/demo", "username": "student", "password": "student"}],
 "notifications_enabled": true,
 "gcmpn": "694767596569"
 }
